@@ -6,3 +6,4 @@ elif(a==0):
 else:
     print('Ta liczba jest ujemna')
 print('udało sie')
+print(xd)
